@@ -28,7 +28,3 @@ datree test k8s-spring-boot-deployment.yml
 ### 4. View and edit Datree Policy via browser
 This too is pretty simple. Run the test command datree test k8s-spring-boot-deployment.yml and then look for the following message box into your terminal -
 
-![Manifest Placeholders Dashboard](./images/dat1.png "Edit Manifest Placeholders")
-
-
-![view and edit](./images/dat1.png "datree")
